@@ -24,5 +24,5 @@ let velocidade,
     tamanho,
     local,
     cidade,
-    marca;
-    
+    marca,
+    atualizacao;
